@@ -1,0 +1,8 @@
+{
+  "name": "ŞİKAYETSAVAR",
+  "description": "Müşteri şikayetlerini analiz edip anında somut pazarlama fikirlerine ve kampanya mesajlarına dönüştüren yapay zeka aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
